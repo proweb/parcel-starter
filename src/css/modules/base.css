@@ -1,0 +1,12 @@
+:root {
+--main-background: bisque;
+--main-text-color: #444;
+
+--base-font-size: 18px;
+--base-line-height: 26px;
+}
+
+body {
+    margin: 0;
+    color: var(--main-text-color);
+}
